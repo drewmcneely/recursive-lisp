@@ -1,1 +1,1 @@
-(first (list 1 (+ 2 3.) 9))
+(first (list 1 (+ 2 3) 9))
